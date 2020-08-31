@@ -17,8 +17,8 @@ Hello! Welcome to my GitHub Profile 😄
 #### 📹 [BettaTech Youtube Channel](https://youtube.com/c/bettatech):
 
 <a href='https://youtu.be/q8FZ4zwORCc' target='_blank'>
-  <img width='50%' src='https://img.youtube.com/vi/q8FZ4zwORCc/mqdefault.jpg' alt='¿Vale la pena Ingeniería Informática?' />
+  <img width='40%' src='https://img.youtube.com/vi/q8FZ4zwORCc/mqdefault.jpg' alt='¿Vale la pena Ingeniería Informática?' />
 </a>
 <a href='https://youtu.be/ERhM1NVM8oE' target='_blank'>
-  <img width='50%' src='https://img.youtube.com/vi/ERhM1NVM8oE/mqdefault.jpg' alt='Matemáticas en Informática' />
+  <img width='40%' src='https://img.youtube.com/vi/ERhM1NVM8oE/mqdefault.jpg' alt='Matemáticas en Informática' />
 </a>
