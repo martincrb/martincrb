@@ -1,5 +1,5 @@
 <!-- Title and short presentation -->
-<img alt="{};" src="https://yt3.ggpht.com/a/AATXAJwgLOMFmMyOY3EJbb0lkf3lynGR_1r6A6QL78ZY=s88-c-k-c0x00ffffff-no-rj">
+<p align="center"><img alt="{};" src="https://yt3.ggpht.com/a/AATXAJwgLOMFmMyOY3EJbb0lkf3lynGR_1r6A6QL78ZY=s88-c-k-c0x00ffffff-no-rj"></p>
 <h1 align="center">🤘 Betta Tech 🤘</h1>
 <h4 align="center">(Martin Cristobal Balasch)</h4>
 
