@@ -16,6 +16,11 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
+- [Problema REAL de DISEÑO de SISTEMAS (Visto en entrevista para posición de ingeniero de SOFTWARE)](https://www.youtube.com/watch?v=Sc-rjCODBDY)
+- [RESUELVO el PROBLEMA que hice en MI PRIMERA ENTREVISTA como INGENIERO DE SOFTWARE](https://www.youtube.com/watch?v=BqXU_f3hnyc)
+- [Resuelvo un EJERCICIO REAL de ENTREVISTA TÉCNICA para posición de Ingeniero de Software](https://www.youtube.com/watch?v=HoT3y-L2t20)
+- [¿Qué cambiaría de mi PRIMER CURRÍCULUM como INGENIERO INFORMÁTICO?](https://www.youtube.com/watch?v=w7bUjvIYHPU)
+- [Mi Teclado Mecánico Para Programar | Mi experiencia con la MECANOGRAFÍA (ASMR included 🤨)](https://www.youtube.com/watch?v=1F8joW_kzfA)
 <!-- YOUTUBE:END -->
 
 ---
