@@ -16,11 +16,11 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
+- [Resolviendo PROBLEMAS de ENTREVISTAS TÉCNICAS con SUSCRIPTORES](https://www.youtube.com/watch?v=jIlB1D8e4rk)
 - [LOGITECH me ha mandado una BOLSA (¿Serie MX? 😱)](https://www.youtube.com/watch?v=-5lB_A9L9Fg)
 - [Problema REAL de DISEÑO de SISTEMAS (Visto en entrevista para posición de ingeniero de SOFTWARE)](https://www.youtube.com/watch?v=Sc-rjCODBDY)
 - [RESUELVO el PROBLEMA que hice en MI PRIMERA ENTREVISTA como INGENIERO DE SOFTWARE](https://www.youtube.com/watch?v=BqXU_f3hnyc)
 - [Resuelvo un EJERCICIO REAL de ENTREVISTA TÉCNICA para posición de Ingeniero de Software](https://www.youtube.com/watch?v=HoT3y-L2t20)
-- [¿Qué cambiaría de mi PRIMER CURRÍCULUM como INGENIERO INFORMÁTICO?](https://www.youtube.com/watch?v=w7bUjvIYHPU)
 <!-- YOUTUBE:END -->
 
 ---
