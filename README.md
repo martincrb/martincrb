@@ -16,11 +16,11 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
+- [¿Qué hacen los PROGRAMADORES en NAVIDAD? | Advent of Code 2020 #1](https://www.youtube.com/watch?v=HYsJyI2z2sQ)
 - [¿En qué consiste REALMENTE la PROGRAMACIÓN DINÁMICA?](https://www.youtube.com/watch?v=C240g6_Dsl4)
 - [Lo hemos construido juntos.](https://www.youtube.com/watch?v=SS9G69ASR3Q)
 - [Las 4 PEORES CAGADAS que he hecho como INGENIERO DE SOFTWARE](https://www.youtube.com/watch?v=swTlfkFF8m0)
 - [5 cosas que OJALÁ HUBIERA SABIDO antes de PROGRAMAR](https://www.youtube.com/watch?v=HwxR6iq9Ftk)
-- [Resolviendo PROBLEMAS de ENTREVISTAS TÉCNICAS con SUSCRIPTORES](https://www.youtube.com/watch?v=jIlB1D8e4rk)
 <!-- YOUTUBE:END -->
 
 ---
