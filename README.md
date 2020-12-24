@@ -16,11 +16,11 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
+- [¿Cuánto cobra un programador Junior? ¿P = NP? y otras preguntas de informática](https://www.youtube.com/watch?v=nASMyYFYZeQ)
 - [Contando Árboles | Advent of Code 2020 #3](https://www.youtube.com/watch?v=r7HNZReHvFE)
 - [¿Contraseñas corruptas? | Advent of Code 2020 #2](https://www.youtube.com/watch?v=fC-JHrqhsYY)
 - [¿Qué hacen los PROGRAMADORES en NAVIDAD? | Advent of Code 2020 #1](https://www.youtube.com/watch?v=HYsJyI2z2sQ)
 - [¿En qué consiste REALMENTE la PROGRAMACIÓN DINÁMICA?](https://www.youtube.com/watch?v=C240g6_Dsl4)
-- [Lo hemos construido juntos.](https://www.youtube.com/watch?v=SS9G69ASR3Q)
 <!-- YOUTUBE:END -->
 
 ---
