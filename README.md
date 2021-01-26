@@ -16,11 +16,11 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
+- [Este vídeo tiene 1696 visitas y se ACTUALIZA. ¡Te ENSEÑO como hacerlo!](https://www.youtube.com/watch?v=Iq1LwfkvRS8)
 - [5 consejos para SUPERAR el SÍNDROME del IMPOSTOR](https://www.youtube.com/watch?v=9yo_EJxfdFg)
 - [ESTIMAR tareas de DESARROLLO de la MEJOR FORMA POSIBLE](https://www.youtube.com/watch?v=qTz4tnGSPGg)
 - [Hoy SE PUBLICA mi CURSO DE BACKEND, ¡CON SORPRESA!](https://www.youtube.com/watch?v=6UoNBwr6dAU)
 - [Las tecnologías y lenguajes que quiero aprender en 2021](https://www.youtube.com/watch?v=--3psKGOSqA)
-- [¿Cuánto cobra un programador Junior? ¿P = NP? y otras preguntas de informática](https://www.youtube.com/watch?v=nASMyYFYZeQ)
 <!-- YOUTUBE:END -->
 
 ---
