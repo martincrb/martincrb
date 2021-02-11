@@ -18,7 +18,7 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YOUTUBE:START -->
 - [Cómo TRABAJAR para EMPRESAS EXTRANJERAS de INFORMÁTICO (desde casa? impuestos? 💰)](https://www.youtube.com/watch?v=n7rrOQyN6oA)
 - [6 aplicaciones INDISPENSABLES en mi MAC (como Ingeniero de Software, Freelance y Youtuber 😜)](https://www.youtube.com/watch?v=nJCI1REBYhQ)
-- [Este vídeo tiene 27237 visitas y se ACTUALIZA. ¡Te ENSEÑO como hacerlo!](https://www.youtube.com/watch?v=Iq1LwfkvRS8)
+- [Este vídeo tiene 27248 visitas y se ACTUALIZA. ¡Te ENSEÑO como hacerlo!](https://www.youtube.com/watch?v=Iq1LwfkvRS8)
 - [5 consejos para SUPERAR el SÍNDROME del IMPOSTOR](https://www.youtube.com/watch?v=9yo_EJxfdFg)
 - [ESTIMAR tareas de DESARROLLO de la MEJOR FORMA POSIBLE](https://www.youtube.com/watch?v=qTz4tnGSPGg)
 <!-- YOUTUBE:END -->
