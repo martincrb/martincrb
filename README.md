@@ -16,7 +16,7 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
-- [ESTO hace que BITCOIN (y otras criptomonedas) sean MALAS para el MEDIO AMBIENTE](https://www.youtube.com/watch?v=Rdcv7tJGAtU)
+- [ESTO es lo que hace que BITCOIN (y otras criptomonedas) consuma tanta energía](https://www.youtube.com/watch?v=Rdcv7tJGAtU)
 - [4 Consejos al Cambiar de Trabajo (Como Ingeniero de Software)](https://www.youtube.com/watch?v=X8kigoBPVVs)
 - [¿Cómo es un DÍA de un INGENIERO de SOFTWARE? (🗓 Jornada laboral programador)](https://www.youtube.com/watch?v=KwqQ5zRCuJ0)
 - [Así es Cómo Deberías Guardar tus Contraseñas...](https://www.youtube.com/watch?v=I2pblc9FdmI)
