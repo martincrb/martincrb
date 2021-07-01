@@ -16,11 +16,11 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
+- [¿La INTELIGENCIA ARTIFICIAL nos dejará sin TRABAJO? | Github Copilot y el EMPLEO](https://www.youtube.com/watch?v=iFw3K__mI5U)
 - [5 ALGORITMOS que DEBERÍAS (al menos) conocer](https://www.youtube.com/watch?v=eOow74IMTpc)
 - [¿Por qué BITCOIN consume tanta ENERGÍA? ¡Veamos la alternativa!](https://www.youtube.com/watch?v=Rdcv7tJGAtU)
 - [4 Consejos al Cambiar de Trabajo (Como Ingeniero de Software)](https://www.youtube.com/watch?v=X8kigoBPVVs)
 - [¿Cómo es un DÍA de un INGENIERO de SOFTWARE? (🗓 Jornada laboral programador)](https://www.youtube.com/watch?v=KwqQ5zRCuJ0)
-- [Así es Cómo Deberías Guardar tus Contraseñas...](https://www.youtube.com/watch?v=I2pblc9FdmI)
 <!-- YOUTUBE:END -->
 
 ---
