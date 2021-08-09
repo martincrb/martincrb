@@ -16,11 +16,11 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
+- [¿El Patrón De Diseño MÁS UTILIZADO en VIDEOJUEGOS? | Patrón Composite](https://www.youtube.com/watch?v=ES3DnAPted0)
 - [¿Cómo funciona un BOT de SLACK?](https://www.youtube.com/watch?v=tENbCdmO1OY)
 - [Tengo una IDEA... ¿Necesito un PROGRAMADOR?](https://www.youtube.com/watch?v=SjosDhjvqgE)
 - [La RAZÓN por la que DEBES Aprender Inglés (como Desarrollador)](https://www.youtube.com/watch?v=Aawq3xDCBm8)
 - [¿La INTELIGENCIA ARTIFICIAL nos dejará sin TRABAJO? | Github Copilot y el EMPLEO](https://www.youtube.com/watch?v=iFw3K__mI5U)
-- [5 ALGORITMOS que DEBERÍAS (al menos) conocer](https://www.youtube.com/watch?v=eOow74IMTpc)
 <!-- YOUTUBE:END -->
 
 ---
