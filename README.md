@@ -16,7 +16,7 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
-- [Cómo NEGOCIAR tu BANDA SALARIAL](https://www.youtube.com/watch?v=bHC34R97qq8)
+- [Cómo Obtener Mejores Ofertas (siendo Ingeniero de Software)](https://www.youtube.com/watch?v=bHC34R97qq8)
 - [Así Es Como Funciona Unity | Patrón Composite](https://www.youtube.com/watch?v=ES3DnAPted0)
 - [¿Backend SIN Servidores?](https://www.youtube.com/watch?v=tENbCdmO1OY)
 - [Tengo una IDEA... ¿Necesito un PROGRAMADOR?](https://www.youtube.com/watch?v=SjosDhjvqgE)
