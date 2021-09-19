@@ -16,11 +16,11 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
+- [Lo Fi music to code / study / chill / relax 📚](https://www.youtube.com/watch?v=8HS8iNzgzaU)
 - [La INFRAESTRUCTURA detrás de TikTok](https://www.youtube.com/watch?v=8OcPdAbSKMU)
 - [¿Existe REALMENTE el DESARROLLO FULLSTACK?](https://www.youtube.com/watch?v=CfaRpWSR96U)
 - [Siempre DEBERÍAS negociar TU SALARIO](https://www.youtube.com/watch?v=bHC34R97qq8)
 - [Así Es Como Funciona Unity | Patrón Composite](https://www.youtube.com/watch?v=ES3DnAPted0)
-- [¿Backend SIN Servidores?](https://www.youtube.com/watch?v=tENbCdmO1OY)
 <!-- YOUTUBE:END -->
 
 ---
