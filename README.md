@@ -16,7 +16,7 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
-- [Lo Fi music to code / study / chill / relax 📚](https://www.youtube.com/watch?v=8HS8iNzgzaU)
+- [Lo Fi music to code / study / chill / relax 📚](https://www.youtube.com/watch?v=YA-6-HpXYZg)
 - [La INFRAESTRUCTURA detrás de TikTok](https://www.youtube.com/watch?v=8OcPdAbSKMU)
 - [¿Existe REALMENTE el DESARROLLO FULLSTACK?](https://www.youtube.com/watch?v=CfaRpWSR96U)
 - [Siempre DEBERÍAS negociar TU SALARIO](https://www.youtube.com/watch?v=bHC34R97qq8)
