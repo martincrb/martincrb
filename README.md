@@ -16,7 +16,7 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
-- [Mis Consejos para Practicar Entrevistas &lpar;En inglés&rpar;](https://www.youtube.com/watch?v=q0S4QFfuABc)
+- [Como AFRONTAR las ENTREVISTAS en INGLÉS &lpar;Cómo Ingeniero de Software&rpar;](https://www.youtube.com/watch?v=q0S4QFfuABc)
 - [5 Bases de Datos que DEBERÍAS CONOCER &lpar;como Ingeniero de Software&rpar;](https://www.youtube.com/watch?v=vvsqP1f1JJs)
 - [¿También te BLOQUEAS al PROGRAMAR?](https://www.youtube.com/watch?v=VHrwlRDEiU8)
 - [¿Probando WINDOWS después de AÑOS?](https://www.youtube.com/watch?v=FK2OfkKg9qU)
