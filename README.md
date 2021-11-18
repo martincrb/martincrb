@@ -16,11 +16,11 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
-- [No todo es programar | ¿Un café nocturno? ☕️ #2](https://www.youtube.com/watch?v=jHoiy0LXUFo)
-- [No todo es programar | ¿Un café nocturno? ☕️ #1](https://www.youtube.com/watch?v=VULILvpMGiY)
 - [5 Bases de Datos que DEBERÍAS CONOCER &lpar;como Ingeniero de Software&rpar;](https://www.youtube.com/watch?v=vvsqP1f1JJs)
 - [¿También te BLOQUEAS al PROGRAMAR?](https://www.youtube.com/watch?v=VHrwlRDEiU8)
 - [¿Probando WINDOWS después de AÑOS?](https://www.youtube.com/watch?v=FK2OfkKg9qU)
+- [5 CONSEJOS para ser mejor PROGRAMADOR PROFESIONAL](https://www.youtube.com/watch?v=cF0dv8D9j60)
+- [Programación Cloud: ¿Por dónde empezar?](https://www.youtube.com/watch?v=F5-U-__9zfA)
 <!-- YOUTUBE:END -->
 
 ---
