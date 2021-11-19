@@ -17,10 +17,10 @@ I love **Java Script**, **Type Script** and **Python**.
 
 <!-- YOUTUBE:START -->
 - [Como AFRONTAR las ENTREVISTAS en INGLÉS &lpar;Cómo Ingeniero de Software&rpar;](https://www.youtube.com/watch?v=q0S4QFfuABc)
+- [No todo es programar | ¿Un poco de gaming? 👾](https://www.youtube.com/watch?v=o2rkOiaGQlo)
 - [5 Bases de Datos que DEBERÍAS CONOCER &lpar;como Ingeniero de Software&rpar;](https://www.youtube.com/watch?v=vvsqP1f1JJs)
 - [¿También te BLOQUEAS al PROGRAMAR?](https://www.youtube.com/watch?v=VHrwlRDEiU8)
 - [¿Probando WINDOWS después de AÑOS?](https://www.youtube.com/watch?v=FK2OfkKg9qU)
-- [5 CONSEJOS para ser mejor PROGRAMADOR PROFESIONAL](https://www.youtube.com/watch?v=cF0dv8D9j60)
 <!-- YOUTUBE:END -->
 
 ---
