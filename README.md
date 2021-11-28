@@ -16,11 +16,11 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
+- [Analizando el COSTE de ALGORITMOS  &lpar;BFS y DFS, ¡explicados!&rpar;](https://www.youtube.com/watch?v=_Yf8tneauJ8)
 - [Como AFRONTAR las ENTREVISTAS en INGLÉS &lpar;Cómo Ingeniero de Software&rpar;](https://www.youtube.com/watch?v=q0S4QFfuABc)
 - [5 Bases de Datos que DEBERÍAS CONOCER &lpar;como Ingeniero de Software&rpar;](https://www.youtube.com/watch?v=vvsqP1f1JJs)
 - [¿También te BLOQUEAS al PROGRAMAR?](https://www.youtube.com/watch?v=VHrwlRDEiU8)
 - [¿Probando WINDOWS después de AÑOS?](https://www.youtube.com/watch?v=FK2OfkKg9qU)
-- [5 CONSEJOS para ser mejor PROGRAMADOR PROFESIONAL](https://www.youtube.com/watch?v=cF0dv8D9j60)
 <!-- YOUTUBE:END -->
 
 ---
