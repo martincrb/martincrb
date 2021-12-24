@@ -18,7 +18,7 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YOUTUBE:START -->
 - [RESOLVIENDO Problemas de Programación &lpar;Advent Of Code 2021&rpar;](https://www.youtube.com/watch?v=dGY1e_ebn4w)
 - [¿Por qué NETFLIX se AUTODESTRUYE?](https://www.youtube.com/watch?v=aGBg6UemJl4)
-- [Analizando el COSTE de ALGORITMOS  &lpar;BFS y DFS, ¡explicados!&rpar;](https://www.youtube.com/watch?v=_Yf8tneauJ8)
+- [Algoritmos BFS y DFS &lpar;Recorridos en Grafos&rpar;](https://www.youtube.com/watch?v=_Yf8tneauJ8)
 - [Como AFRONTAR las ENTREVISTAS en INGLÉS &lpar;Cómo Ingeniero de Software&rpar;](https://www.youtube.com/watch?v=q0S4QFfuABc)
 - [5 Bases de Datos que DEBERÍAS CONOCER &lpar;como Ingeniero de Software&rpar;](https://www.youtube.com/watch?v=vvsqP1f1JJs)
 <!-- YOUTUBE:END -->
