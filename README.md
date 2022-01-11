@@ -16,11 +16,11 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
+- [¿Mi Nuevo Teclado Para Programar para 2022? | HHKB Professional Hybrid](https://www.youtube.com/watch?v=ogQIK9r1TSQ)
 - [Éste es el MAYOR PROBLEMA que se encuentran LAS STARTUPS](https://www.youtube.com/watch?v=RuMqqLkK2q0)
 - [5 años de PROGRAMACIÓN en &lpar;CASI&rpar; 10 minutos](https://www.youtube.com/watch?v=fFEZ8f2b1NQ)
 - [RESOLVIENDO Problemas de Programación &lpar;Advent Of Code 2021&rpar;](https://www.youtube.com/watch?v=dGY1e_ebn4w)
 - [¿Por qué NETFLIX se AUTODESTRUYE?](https://www.youtube.com/watch?v=aGBg6UemJl4)
-- [Algoritmos BFS y DFS &lpar;Recorridos en Grafos&rpar;](https://www.youtube.com/watch?v=_Yf8tneauJ8)
 <!-- YOUTUBE:END -->
 
 ---
