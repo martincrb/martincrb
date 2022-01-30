@@ -16,7 +16,7 @@ I love **Java Script**, **Type Script** and **Python**.
 <!-- YouTube workflow implementation using this repository: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
-- [¿Qué significa REFACTORIZAR?](https://www.youtube.com/watch?v=6uBOlGrcj4A)
+- [¿Sabes lo que significa Refactorizar?](https://www.youtube.com/watch?v=6uBOlGrcj4A)
 - [BRIDGE | Patrones de Diseño](https://www.youtube.com/watch?v=6bIHhzqMdgg)
 - [¿Mi Nuevo Teclado Para Programar para 2022? | HHKB Professional Hybrid](https://www.youtube.com/watch?v=ogQIK9r1TSQ)
 - [Cuando tu Startup Ya No Es una Startup](https://www.youtube.com/watch?v=RuMqqLkK2q0)
